@@ -27,4 +27,6 @@ let kvur = (a, b, c) => {
   }
   return result;
 }
+
+
 console.log(kvur(1, 12, 36));
