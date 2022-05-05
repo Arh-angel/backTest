@@ -6,7 +6,7 @@
 
 import art from 'ascii-art';
 
-art.font('Give me food!!!', 'Doom', (err, render) => {
+art.font('My sendens', 'Doom', (err, render) => {
   if (err) return;
   console.log(render);
 });
