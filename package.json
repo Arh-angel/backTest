@@ -1,0 +1,28 @@
+{
+  "name": "backtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arh-angel/backTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arh-angel/backTest/issues"
+  },
+  "homepage": "https://github.com/Arh-angel/backTest#readme",
+  "dependencies": {
+    "ascii-art": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
